@@ -1,0 +1,6 @@
+ON September 11 - we did our first commit which sent "this is test" class, under test package.
+10:11 updated code package with new class on local machine
+10:12 updated git hub repo with this file
+now remote hub has a new file that is not on the local
+the local has new class that is not on the remote
+10:13 - ready
